@@ -1,0 +1,20 @@
+=== 1. Player with Greatest Impact ===
+Which player had the greatest impact on game outcomes this season, and how do you measure "impact"?
+
+=== 2. Defensive Strategy to Prevent Goals ===
+If I wanted to prevent 10 opponent goals next season, which defensive players should I train and why?
+
+=== 3. Most Efficient Player ===
+Who is the most efficient player in terms of goals scored per shot attempted or per minute played?
+
+=== 4. Most Consistent Performer ===
+Which player shows the most consistent performance across all games?
+
+=== 5. Missing Top Player Simulation ===
+Can you simulate how the team’s win-loss record would change if [top player] missed 3 games?
+
+=== 6. Mid-Season Breakout ===
+Which player had a mid-season performance breakout, and what changed?
+
+=== 7. Comparing to a Championship Team ===
+Based on the data, how does our team compare to a hypothetical “championship-level” team? What gaps need to be closed?
